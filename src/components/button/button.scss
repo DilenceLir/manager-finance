@@ -1,0 +1,29 @@
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    &__plus, &__minus {
+        font-size: 5rem;
+        img {
+            width: 70%;
+            height: 70%;
+        }
+        border: solid 10px;
+        border-radius: 50%;
+        text-align: center;
+        align-items: center;
+        width: 7rem;
+        height: 7rem;
+        display: flex;
+        justify-content: center;
+        
+    }
+    &__plus {
+        border-color: green;
+    }
+    &__minus {
+        margin-right: 40px;
+        border-color: red;
+    }
+    
+}
