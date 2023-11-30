@@ -1,6 +1,8 @@
 import "./app.scss";
 import Header from "../header/Header";
 import Footer from "../footer/Footer";
+import Buttons from "../button/button";
+
 
 const App = () => {
   return (
@@ -10,6 +12,7 @@ const App = () => {
         <div className="container"></div>
       </main>
       <Footer />
+      <Buttons />
     </div>
   );
 };
