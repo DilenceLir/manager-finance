@@ -12,7 +12,6 @@ const App = () => {
         <div className="container"></div>
       </main>
       <Footer />
-      <Buttons />
     </div>
   );
 };
