@@ -10,7 +10,7 @@ const Buttons = () => {
                 <img src={minus} alt="" />
             </a>
             <a className = "button__plus">
-            <img src={plus} alt="" />
+                <img src={plus} alt="" />
             </a>
         </div>
     )

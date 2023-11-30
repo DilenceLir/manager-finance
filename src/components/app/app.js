@@ -1,6 +1,6 @@
 import "./app.scss";
 import Header from "../header/Header";
-import Footer from "../footer/Footer";
+import Footer from "../footer/footer";
 import Buttons from "../button/button";
 
 
